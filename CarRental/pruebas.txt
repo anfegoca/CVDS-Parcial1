@@ -1,0 +1,57 @@
+
+----Clases de equivalencia-------
+
+Camioneta	&&	NumDias > 0	&&	Plata
+Camioneta	&&	NumDias > 0	&&	Oro
+Camioneta	&&	NumDias > 0	&&	Diamante
+
+
+Deportivo	&&	NumDias > 0	&&	Plata
+Deportivo	&&	NumDias > 0	&&	Oro
+Deportivo	&&	NumDias > 0	&&	Diamante
+
+Eléctrico	&&	NumDias > 0	&&	Plata
+Eléctrico	&&	NumDias > 0	&&	Oro
+Eléctrico	&&	NumDias > 0	&&	Diamante
+
+
+-----Casos de frontera----------
+
+Camioneta	&&	NumDias = 0	&&	Plata
+Camioneta	&&	NumDias = -1	&&	Plata
+Camioneta	&&	NumDias = 1	&&	Plata
+
+
+Camioneta	&&	NumDias = 0	&&	Oro
+Camioneta	&&	NumDias = -1	&&	Oro
+Camioneta	&&	NumDias = 1	&&	Oro
+
+Camioneta	&&	NumDias = 0	&&	Diamante
+Camioneta	&&	NumDias = -1	&&	Diamante
+Camioneta	&&	NumDias = 1	&&	Diamante
+
+
+Deportivo	&&	NumDias = 0	&&	Plata
+Deportivo	&&	NumDias = -1	&&	Plata
+Deportivo	&&	NumDias = 1	&&	Plata
+
+Deportivo	&&	NumDias = 0	&&	Oro
+Deportivo	&&	NumDias = -1	&&	Oro
+Deportivo	&&	NumDias = 1	&&	Oro
+
+Deportivo	&&	NumDias = 0	&&	Diamante
+Deportivo	&&	NumDias = -1	&&	Diamante
+Deportivo	&&	NumDias = 1	&&	Diamante
+
+Eléctrico	&&	NumDias = 0	&&	Plata
+Eléctrico	&&	NumDias = -1	&&	Plata
+Eléctrico	&&	NumDias = 1	&&	Plata
+
+Eléctrico	&&	NumDias = 0	&&	Oro
+Eléctrico	&&	NumDias = -1	&&	Oro
+Eléctrico	&&	NumDias = 1	&&	Oro
+
+Eléctrico	&&	NumDias = 0	&&	Diamante
+Eléctrico	&&	NumDias = -1	&&	Diamante
+Eléctrico	&&	NumDias = 1	&&	Diamante
+
